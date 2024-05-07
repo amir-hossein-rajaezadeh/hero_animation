@@ -1,16 +1,13 @@
 # hero_animation
 
-A new Flutter project.
+A Flutter Project using Hero Animations.
 
-## Getting Started
+In this projct I used 'Hero widgets to create this wonderful animtions
+- [Read about Hero widgets here:](https://docs.flutter.dev/ui/animations/hero-animations)
 
-This project is a starting point for a Flutter application.
+![1](docs/screenshots/img1.png) 
+![2](docs/screenshots/img2.png) 
+![3](docs/screenshots/img3.png) 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Open to any contribute✨
+Star it if you enjoy this project❤️

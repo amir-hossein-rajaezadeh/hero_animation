@@ -300,9 +300,9 @@ class HomePage extends StatelessWidget {
                   Navigator.push(
                     context,
                     PageRouteBuilder(
-                      transitionDuration: const Duration(milliseconds: 180),
+                      transitionDuration: const Duration(milliseconds: 200),
                       reverseTransitionDuration:
-                          const Duration(milliseconds: 150),
+                          const Duration(milliseconds: 180),
                       pageBuilder: (context, animation, secondaryAnimation) =>
                           DetailPage(
                         heroTag: "Fi$index",
@@ -400,7 +400,7 @@ class HomePage extends StatelessWidget {
 
   Widget _buildTitleWidget(String title) {
     return Container(
-      margin: const EdgeInsets.only(right: 20, left: 20, top: 12, bottom: 8),
+      margin: const EdgeInsets.only(right: 15, left: 20, top: 12, bottom: 8),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
